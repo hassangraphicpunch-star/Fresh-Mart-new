@@ -1,0 +1,8 @@
+{
+  "name": "Fresh Mart",
+  "description": "Online Grocery & General Store serving Karachi, Pakistan with bilingual English & Urdu shopping, road-distance delivery pricing, WhatsApp order notifications, and full admin management.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
